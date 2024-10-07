@@ -70,9 +70,7 @@ public class DebrickedService {
 
         }
 
-        if (filednames.length !=0) {
-            //send notification;
-        }
+
 
         // Step 3: Start scan if upload is successful/partially successful
         if (uploadId != null) {
